@@ -1,4 +1,5 @@
 <h1>Hello, I'm Jônatas</h1>
+<img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=jojoccp&color=green" alt="alexsgross" />
 
 - 🔭 I’m currently working on <a href="https://trademap.com.br/">Trademap</a>
 - 🌱 I’m currently learning Angular, Kotlin and Postgres
