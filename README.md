@@ -1,5 +1,5 @@
 <h1>Hello, I'm Jônatas</h1>
-
+<hr>
 - 🔭 I’m currently working on <a href="https://trademap.com.br/">Trademap</a>
 - 🌱 I’m currently learning Angular, Kotlin and Postgres
 - 🤔 I’m looking for help with <a href="https://github.com/open-wa/wa-automate-nodejs">wa-automate-nodejs</a>
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Back-end:</h4>
-<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40" height="40" /></a><a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" width="30" height="30" /></a> </p>
+<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40" height="40" /></a><a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" width="35" height="35" /></a> </p>
 <hr>
 
 <h4 align="left">Front-end:</h4>
@@ -35,3 +35,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoccp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoccp&layout=compact&theme=radical)
