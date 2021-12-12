@@ -6,6 +6,10 @@
 - 💬 Ask me about <strong>Backend</strong>
 - 📫 How to reach me: <a href="">jonatas.ccp@gmail.com</a>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"><a href="https://www.linkedin.com/in/jonatasccp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +20,7 @@
 
 <p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgres" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
     
-<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   alt="git" width="40" height="40" /></a></p>
-
+<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   alt="git" width="40" height="40" /></a> <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a></p>
 
 
 
