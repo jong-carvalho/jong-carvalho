@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h2>Backend:</h2>
+<h4>Backend:</h4>
 <p align="left"> 
     <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
