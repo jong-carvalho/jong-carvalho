@@ -23,7 +23,7 @@
 <hr>
 
 <h4 align="left">Databases</h4>
-<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgres" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
+<p align="left"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgres" width="40" height="40" /></a>  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a></p>
 <hr>
 
 <h4 align="left">Others</h4>
@@ -34,5 +34,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoccp&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoccp&layout=compact&theme=radical)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoccp&show_icons=true&theme=radical)
