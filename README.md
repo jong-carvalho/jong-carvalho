@@ -1,13 +1,12 @@
 <h1>Hello, I'm Jônatas</h1>
 
-<ul>
-    <p> I’m currently working on <a href="https://trademap.com.br/">Trademap</a></p>
-</ul>
+- I’m currently working on <a href="https://trademap.com.br/">Trademap</a>
 <p>🔭  I’m currently working on <a href="https://trademap.com.br/">Trademap</a></p>
 <p>🌱  I’m currently learning Angular </p>
 <p>🤔  I’m looking for help with <a href="https://github.com/open-wa/wa-automate-nodejs">wa-automate-nodejs</a></p>
 <p>💬  Ask me about <strong>Backend</strong>  </p>
 <p>📫  How to reach me: <a href="">jonatas.ccp@gmail.com</a></p>
+
 
 
 
