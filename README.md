@@ -10,21 +10,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4>Backend:</h4>
-<p align="left">
-    <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40"
-            height="40" />
-    </a>
-</p>
+<p align="left"><a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40"height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  alt="node" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  alt="node" width="40" height="40" /></a><a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="angular" width="40" height="40" /></a> <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="angular" width="40" height="40" /> </a> <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="angular" width="40"height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="angular"width="40" height="40" /></a><a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgres" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   alt="git" width="40" height="40" /></a></p>
 
 
-<h4>Frontend:</h4>
-<p align="left"> <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="angular" width="40" height="40" /></a> <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="angular" width="40" height="40" /> </a> <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="angular" width="40"height="40" /></a><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="angular"width="40" height="40" /></a><a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"width="40" height="40" /></a></p>
 
-<h4>Databases:</h4>
-
-<h4>S.O:</h4>
 
 
 
