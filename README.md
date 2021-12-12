@@ -1,23 +1,11 @@
-### Hi, I'm Jônatas Carvalho 👋
-
 <h1>Hello, I'm Jônatas</h1>
 
 <p> I’m currently working on <a href="https://trademap.com.br/">Trademap</a></p>
-
-<!--
-**jojoccp/jojoccp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🔭 I’m currently working on <a href="https://trademap.com.br/">Trademap</a></p>
+<p>🌱 I’m currently learning Angular </p>
+<p>🤔 I’m looking for help with <a href="https://github.com/open-wa/wa-automate-nodejs">wa-automate-nodejs</a></p>
+<p>💬 Ask me about <strong>Backend</strong>  </p>
+<p>📫 How to reach me: <a href="">jonatas.ccp@gmail.com</a></p>
 
 
 
