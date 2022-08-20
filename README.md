@@ -1,10 +1,10 @@
 <h1>Hello, I'm Jônatas</h1>
 
 - 🔭 I’m currently working on <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>
-- 🌱 I’m currently learning Angular, Kotlin and Postgres
-- 🤔 I’m looking for help with <a href="https://github.com/open-wa/wa-automate-nodejs">wa-automate-nodejs</a>
+- 🌱 I’m currently learning Kotlin, Kafka and Reactive Programming
+- 🤔 I’m looking for help with Reactor and Webflux
 - 💬 Ask me about <strong>Backend</strong>
-- 📫 How to reach me: <a href="">jonatas.ccp@gmail.com</a>
+- 📫 How to reach me: <a href="">gc.jonatas@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 
