@@ -34,6 +34,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoccp&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon-carvalho&layout=compact&theme=radical)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoccp&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-carvalho&show_icons=true&theme=radical)
