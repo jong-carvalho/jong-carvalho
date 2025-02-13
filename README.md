@@ -1,5 +1,6 @@
 <h1>Hello, I'm Jônatas</h1>
 
+<!--
 - 🔭 I’m currently working on <a href="https://pagseguro.uol.com.br/#rmcl">Pagseguro</a>
 - 🌱 I’m currently learning Kotlin, Kafka and Reactive Programming
 - 🤔 I’m looking for help with Reactor and Webflux
@@ -7,8 +8,8 @@
 - 📫 How to reach me: <a href="">gc.jonatas@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
-
-<p align="left"><a href="https://www.linkedin.com/in/jonatasccp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
+-->
+<p align="left"><a href="https://www.linkedin.com/in/jongcarvalho/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
 
 <!--
 
