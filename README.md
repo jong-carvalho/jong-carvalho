@@ -10,7 +10,7 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/jonatasccp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
 
-
+<!--
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -31,7 +31,7 @@
 <hr>
 
 
-
+-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jong-carvalho&layout=compact&theme=radical)
